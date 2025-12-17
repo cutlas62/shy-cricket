@@ -1,4 +1,4 @@
-#define F_CPU           (9600000UL) // Defualt clock speed
+#define F_CPU           (9600000UL) // Default clock speed
 
 #include <avr/io.h>
 #include <avr/interrupt.h>
